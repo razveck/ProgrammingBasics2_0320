@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.exe
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.dll
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.pdb
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.dll
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.pdb
+D:\Dropbox\Work\Teaching\SAE\GPR4100_en_0320\ProgrammingBasics2\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.genruntimeconfig.cache

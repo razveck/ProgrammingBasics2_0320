@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\bin\Debug\netcoreapp3.1\UnityEngine.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\UnityEngine\obj\Debug\netcoreapp3.1\UnityEngine.genruntimeconfig.cache

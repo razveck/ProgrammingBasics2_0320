@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\bin\Debug\netcoreapp3.1\Events.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

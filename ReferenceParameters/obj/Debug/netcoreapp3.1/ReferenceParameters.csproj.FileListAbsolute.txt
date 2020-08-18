@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\bin\Debug\netcoreapp3.1\ReferenceParameters.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\ReferenceParameters\obj\Debug\netcoreapp3.1\ReferenceParameters.genruntimeconfig.cache

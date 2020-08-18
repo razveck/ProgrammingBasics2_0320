@@ -1,0 +1,13 @@
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\Dropbox\Work\Teaching\SAE\GPA4300_en_0320\ProgrammingBasics2\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
