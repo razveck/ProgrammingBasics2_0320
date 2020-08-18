@@ -3,6 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace UnityEngine {
-	class Behaviour {
+	class Behaviour : Component{
 	}
 }

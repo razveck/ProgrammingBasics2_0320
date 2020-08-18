@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vUVHxz7ohm70OLBIjP38u9djGMblgukv892jiqJOjoaQSit7TjYUYnYyWoMNRdIMOBpGAEjpO9toQ0OmURKOLA==",
+  "dgSpecHash": "DJ/biTwwSyrAJVs5tu2vEIdh8QqUrceKAOwahs9NbFjK3kDs0+WaSEej5uP/3CWuEV0gv3UthKAXssuxoezKTA==",
   "success": true,
   "projectFilePath": "D:\\Dropbox\\Work\\Teaching\\SAE\\GPA4300_en_0320\\ProgrammingBasics2\\UnityEngine\\UnityEngine.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

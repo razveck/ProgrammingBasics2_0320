@@ -3,6 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace UnityEngine {
-	class MonoBehaviour {
+	class MonoBehaviour : Behaviour{
 	}
 }
